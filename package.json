@@ -1,0 +1,19 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "first backend dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "express"
+  ],
+  "author": "abhimanyu rai",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
